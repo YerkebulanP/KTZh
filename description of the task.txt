@@ -1,0 +1,180 @@
+Understanding Impact of Product Quality Perceptions on Smartphone
+Purchase Behaviors
+Business Question
+Quality is one of the key parameters for building a competitive advantage in the 
+marketplace. Perceived quality’s relevance has been confirmed through PIMS-and other 
+studies, which have supported its role as a significant driver of a firm’s profitability and 
+of successful corporate performance. Studies have shown that changes in quality 
+perceptions were positively related to stock returns over and above current-term 
+accounting measures (Mizik and Jacobson 2004). Therefore, perceived quality as a 
+long-term driver of business performance represents a very relevant piece of 
+information for both managers and investors alike.
+While theoretical conceptualizations of product quality unanimously stress its 
+multidimensional nature, still today no product quality scale, consistent with these multidimensional conceptualizations, exists. Therefore product management of a major 
+smartphone producer set-up a project to develop a framework to measure product 
+quality of smartphones as experienced by customers, “Customers’ Evaluated Product 
+Quality (CEPQ)”, in terms of its constituent dimensions. Another reason to try to develop 
+a better understanding of customers’ product quality perceptions, were the 
+disappointing results of customer satisfaction studies. 
+The satisfaction surveys conducted by the company have over the years shown only 
+marginal differentiation across competitors and worse were not able to predict 
+repurchase behaviour of customers. That is customers who indicated high satisfaction 
+rates with their current smartphone were not necessarily repurchasing the same
+smartphone brand, when they replaced their current smartphone. Most importantly 
+product management wants to get a deeper understanding about which quality 
+dimensions significantly explain key outcome variables such as willingness to pay 
+premium (WTPP) and repurchase intentions (RI). Another stakeholder interested in the 
+results of this project is the operations management department of the company. In the 
+past total quality management programs, had difficulties in proving their efficacy. Indeed 
+across industries the frequent failure of TQM programs even from companies, who 
+have been recipients of quality awards, have raised general concerns about their 
+efficacy. One of the likely reasons for the disappointing results of many TQM-programs 
+which has been proposed by quality experts is that “firms do not measure quality 
+effectively” (Sebastianelli and Tamimi 2002, p. 442). Therefore the operations 
+management department hopes that the project provides them with a criterion variable 
+to assess success or failure of their quality improvement initiatives.
+In a first-step of this research project the project team conducted a literature research 
+on product quality. Many authors have stressed the difficulty of defining and measuring 
+product quality. Pirsig (1974, p. 185,213) captured this difficulty of defining the concept 
+of quality among researchers in his famous quote: "Quality is neither mind nor matter, 
+but a third entity independent of two....even though quality can not be defined, you know 
+what it is”. A key reason for the difficulty in defining quality is caused by the different 
+perspectives on quality which are rooted in different disciplines e.g. according to
+the user-based approach of marketing quality is the extent to which a product or service 
+meets or exceeds customer expectations. In contrast, the manufacturing-based 
+approach with roots in operations and productions management defines quality as a 
+conformance to design standards and specifications (Garvin 1988). Ultimately, however, 
+the success of quality improvement programs will be reflected in the beliefs that 
+consumers have about the quality of products (Garvin, 1988). Since consumer behavior 
+is driven by their perceptions of product quality rather than any objective measures such 
+as e.g. conformity with engineering standards, there is a clear need for a more precise 
+measure of perceived product quality. Thus, for the research project at hand, the project 
+team follows the user-based perspective on product quality and accordingly defines
+perceived product quality as the customer’s judgment of the overall excellence, esteem, 
+or superiority of a product (with respect to its intended purposes) relative to the 
+alternative products (Netemeyer et al. 2004).  
+
+Multidimensionality of Quality Perceptions
+Researchers have conceptualized both the quality of products and services as 
+multidimensional constructs (Garvin 1984, Parasuraman et al. 1988). Unfortunately in
+contrast to the rich literature on service quality, where instruments to measure service 
+quality (e.g. SERVQUAL and, SERVPERF) have been extensively discussed and improved in the academic literature (Cronin Jr and Taylor 1992, Zeithaml et al. 2002), 
+and have been widely applied in business practice and adapted to various contexts no 
+comparable multi-dimensional metric exists for products. In the literature, agreement 
+exists that perceived product quality needs to be conceptualized as a multidimensional 
+construct (Brucks et al. 2000, Garvin 1988, Golder et al. 2012, Stone-Romero et al. 
+1997). However, disagreement exists concerning the number and nature of the 
+constituting dimensions of product quality. Table 1 shows the various quality dimensions 
+proposed in the literature and their definitions.Research Approach
+Due to the doubts and inconsistencies, concerning the role of constituting dimensions of 
+perceived product quality in the literature a necessary first step in the present research 
+project is to identify relevant product quality dimensions from a customer point of view.
+Therefore in a first step qualitative interviews with customers were conducted. The 
+sample consisted of 25 customers both in the USA and in India. Screening criteria for 
+respondents were that they must have been using their smart phones for a minimum 
+period of 6 months. Based on the outcomes of qualitative interviews an initial pool of 40
+items to measure quality perceptions and potentially underlying dimensions were 
+developed. In a first step, five practitioners from operations management and six 
+practitioners from marketing, familiar with the quality topic, assessed this initial item pool 
+for content validity and items individually for their comprehensibility. In a final survey 24
+items to measure perceived product quality were retained. 
+Overall 1000 smartphone customers in the US participated in a longitudinal survey
+which collected data in two waves separated by six months ( data collected in 1st wave has a _1 suffix and data collected in 2nd wave has a _2 suffix in the variable names) : 
+In both the surveys, the first part collected detailed information about the product (brand 
+and exact model), usage frequency, purchase date and purchase price. The second 
+part consisted of the refined item pool to measure customers product quality
+perceptions. In this section, respondents were asked to evaluate their product on the 24
+retained quality questions (in the next page) after the following introduction: “Please 
+evaluate your smartphone in comparison with other smartphones in the same category 
+by answering the questions below. Respondents rated their product on a 5-point scale. 
+Depending on the questions three sets of scale labels were employed ranging from 1 
+being “very poor”/”very short”/”very low” to 5 being “very good”/” very long”/”very high”. 
+In the third part of the questionnaire, participants answered to a set of questions about 
+themselves and their relationship with the product and its manufacturer. This part 
+consisted of items from established scales for the following concepts: satisfaction, 
+overall perceived quality, willingness to pay price premium, and repurchase intentions. 
+The last part of the questionnaire was used to collect demographic information of the 
+participants
+
+qd_pf1 - the overall performance of my smartphone
+qd_pf2 - how well does your smartphone perform its core functions?
+qd_pf3 -the call quality offered by my smartphone is
+qd_ft1 - the number of additional features my smartphone offers is
+qd_ft2 -the innovativeness of the extra features offered by my smartphone is
+qd_ft3 -the excitement I get from my smartphone’s extra features is
+qd_as1 -the appeal of my smartphone ’s design is
+qd_as2 -the overall attractiveness of my smartphone is
+qd_as3 -the overall fit and finish of my smartphone is
+qd_sr1 -the competence of my smartphone’s customer service staff is
+qd_sr2 -the responsiveness of my smartphone’s customer service staff is
+qd_sr3 -the promptness with which my smartphone’s customer service reacts to my issues is
+qd_re1 -the severity of defects/glitches of my smartphone is
+qd_re2 -my smartphone’s probability of failure or malfunctioning is
+qd_re3 -the time span for which my smartphone runs/will run without any major defects is
+qd_du1 durb - the life span of my smartphone is/will be
+qd_du2 - the amount of time for which my smartphone works/will work perfectly even under 
+heavy usage (ex. frequent gaming) is
+qd_du3 -the amount of time for which my smartphone maintains/will maintain its full 
+functionality even under harsh usage conditions (extreme cold/heat/rain) is
+qd_eu1 - my experience to learn how to properly operate my smartphone with all its 
+functionalities is/was
+qd_eu2 - my user experience with the various functions my smartphone offers is/was
+qd_eu3 - my smartphone's ease of use is
+qd_mt1 - the exclusiveness of the materials used in my smartphone is
+qd_mt2 - the endurance of the material used is
+qd_mt3 - the robustness of the material used is
+
+
+Tasks:
+You and your team members in the Marketing Anaytics division are assigned the task of 
+analyzing this longitudinal data from the survey outlined above. Your team is supposed 
+to help company in understanding the customers’ view of product quality for 
+smartphones and how these quality perceptions drive their customer behaviors like 
+repurchase intentions and willingness to pay premium compared to customer 
+satisfaction and other old quality matrix and ACSI index.
+Using your knowledge of Python-programming your teams needs to do the 
+following:
+Since this is a longitudinal survey, you have a strong data to compare the crosssectional and longitudinal behaviors and suggest your company for a better quality 
+improvement decisions. In cross sectional analysis you wil compare the 
+independent variables from wave 1(and 2) with the dependent variables of wave 
+1(and 2) whereas in longitudinal analysis you will compare the independent 
+variables from wave 1 with the dependent variables of wave 2.
+1. Start by analyzing and cleaning the data and getting the descriptives of all the 
+data variables.
+2. Create new variables for dependent variables: satisfaction (sat), willingness to 
+pay(wtpp), repurchase intentions (ri) and word of mouth (wom), performance, 
+feature. Etc.
+These new variables are supposed to be means of the items in each of the 
+survey i,e, SAT1 = mean( sat1_1, sat2_1, sat3_1) and so on.
+3. Run a regression analysis with the quality dimensions and satisfaction as 
+independent and the mean score of willingness to pay premium and repurchase 
+intention as dependent variables. Interpret your results from a managerial 
+perspective. You need to do a cross-sectional regression for both the waves and 
+one longitudinal analysis for better understanding.
+Do the results of the regression analysis for repurchase intentions differ 
+across brands e.g. Samsung versus Apple. What do the results of these 
+regressions imply? Please compare the brands on these regression coefficients. What are points of parity and points of difference for the Apple and 
+Samsung. 
+(for Wave 1 on Wave 1 data use R, and for Wave2 on Wave 2 data use 
+Python)
+4. Run a cross-sectional and longitudinal regression analysis with the quality 
+dimensions of the old measure (q_old_XXX) and satisfaction as independent and 
+the mean score of willingness to pay premium and repurchase intention as 
+dependent variables. Interpret your results from a managerial perspective. Do 
+the results of the regression analysis for repurchase intentions differ and 
+give different perspectives compared to the multi-dimensional measure 
+adopted in question 3? Please compare the brands again on these regression 
+coefficients. What are points of parity and points of difference for the Apple and 
+Samsung. 
+5. Using ACSI measure as your independent variable and WTPP and RI as 
+dependent variable for both the waves, conduct a linear regression.
+Is ACSI alone giving you enough idea about the customer behavior?
+6. Does the age of consumer plays any role in defining their quality perception?
+For question 4,5 and 6, you can use either R or Python as per your choice.
+Present your business report to the board of directors including the CFO about 
+your research and if it makes sense to go for the new measure of product quality
+and if it is really useful compared to the existing measure of customer behavior.
+Use data visualization techniques from R and Python to create graphs wherever 
+necessary and helps in ease of understanding.
+A well documented and commented R/Python as annexure script file containing 
+details of all the codes employed performing these tasks 
